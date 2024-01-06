@@ -1,0 +1,63 @@
+<NATION>
+    <NAME>The Veridian Legion</NAME>
+    <TYPE>Dominion</TYPE>
+    <FULLNAME>The Dominion of The Veridian Legion</FULLNAME>
+    <MOTTO>Strength Through Unwavering Compliance, Unity in Obedie</MOTTO>
+    <CATEGORY>Psychotic Dictatorship</CATEGORY>
+    <UNSTATUS>Non-member</UNSTATUS>
+    <ENDORSEMENTS></ENDORSEMENTS>
+    <ISSUES_ANSWERED>28</ISSUES_ANSWERED>
+    <FREEDOM>
+        <CIVILRIGHTS>Few</CIVILRIGHTS>
+        <ECONOMY>Fragile</ECONOMY>
+        <POLITICALFREEDOM>Outlawed</POLITICALFREEDOM>
+    </FREEDOM>
+    <REGION>The League</REGION>
+    <POPULATION>9</POPULATION>
+    <TAX>57.2</TAX>
+    <ANIMAL>Red Panda</ANIMAL>
+    <CURRENCY>Legion Credit</CURRENCY>
+    <DEMONYM>Veridian Legionian</DEMONYM>
+    <DEMONYM2>Veridian Legionian</DEMONYM2>
+    <DEMONYM2PLURAL>Veridian Legionians</DEMONYM2PLURAL>
+    <FLAG>https://www.nationstates.net/images/flags/uploads/the_veridian_legion__567361.png</FLAG>
+    <MAJORINDUSTRY>Arms Manufacturing</MAJORINDUSTRY>
+    <GOVTPRIORITY>Defence</GOVTPRIORITY>
+    <GOVT>
+        <ADMINISTRATION>7.2</ADMINISTRATION>
+        <DEFENCE>20.9</DEFENCE>
+        <EDUCATION>9.6</EDUCATION>
+        <ENVIRONMENT>5.2</ENVIRONMENT>
+        <HEALTHCARE>8.8</HEALTHCARE>
+        <COMMERCE>4.4</COMMERCE>
+        <INTERNATIONALAID>4.0</INTERNATIONALAID>
+        <LAWANDORDER>13.3</LAWANDORDER>
+        <PUBLICTRANSPORT>6.8</PUBLICTRANSPORT>
+        <SOCIALEQUALITY>6.0</SOCIALEQUALITY>
+        <SPIRITUALITY>0.4</SPIRITUALITY>
+        <WELFARE>13.3</WELFARE>
+    </GOVT>
+    <FOUNDED>3 days 14 hours ago</FOUNDED>
+    <FIRSTLOGIN>1704260336</FIRSTLOGIN>
+    <LASTLOGIN>1704569474</LASTLOGIN>
+    <LASTACTIVITY>9 minutes ago</LASTACTIVITY>
+    <INFLUENCE>Hatchling</INFLUENCE>
+    <FREEDOMSCORES>
+        <CIVILRIGHTS>27</CIVILRIGHTS>
+        <ECONOMY>12</ECONOMY>
+        <POLITICALFREEDOM>9</POLITICALFREEDOM>
+    </FREEDOMSCORES>
+    <PUBLICSECTOR>99.6</PUBLICSECTOR>
+    <DEATHS>
+        <CAUSE type="Old Age">93.4</CAUSE>
+        <CAUSE type="Accident">1.0</CAUSE>
+        <CAUSE type="Lost in Wilderness">3.7</CAUSE>
+        <CAUSE type="Bungee Jumping">1.9</CAUSE>
+    </DEATHS>
+    <LEADER>Leader</LEADER>
+    <CAPITAL>The Veridian Legion City</CAPITAL>
+    <RELIGION>a major religion</RELIGION>
+    <FACTBOOKS>1</FACTBOOKS>
+    <DISPATCHES>1</DISPATCHES>
+    <DBID>5825052</DBID>
+</NATION>
